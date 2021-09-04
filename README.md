@@ -4,15 +4,15 @@
 # Features
 Format your current tokens to a new format!\
 Every tool uses a different format for some reason so I made this.\
-Supported keys:
-    - token
-    - password
-    - email
-    - phone
-    - username
-    - disctiminator
-    - id
-    - flags
+Supported keys:\
+    - token\
+    - password\
+    - email\
+    - phone\
+    - username\
+    - discriminator\
+    - id\
+    - flags\
     - verified
 
 # Example
