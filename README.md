@@ -16,4 +16,4 @@ Supported keys:
     - verified
 
 # Example
-[a](https://cdn.discordapp.com/attachments/882598737501900860/883748708452294656/unknown.png)
+![image](https://cdn.discordapp.com/attachments/882598737501900860/883748708452294656/unknown.png)
